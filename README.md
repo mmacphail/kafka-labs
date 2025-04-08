@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Kafka-labs 👋</h1>
 <p>
   <a href="LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+    <img alt="License: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/License-CC_BY_NC_SA_4.0-yellow.svg" />
   </a>
 </p>
 
