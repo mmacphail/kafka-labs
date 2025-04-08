@@ -15,7 +15,8 @@ See [Setup](./setup/setup.md)
 
 ## Labs
 
-1. [Kafka's first steps](./labs/lab_01_fundamentals.md)
+1. [Kafka fundamentals](./labs/lab_01_fundamentals.md)
+2. [Kafka producer](./labs/lab_02_producer.md)
 
 ## Author
 
