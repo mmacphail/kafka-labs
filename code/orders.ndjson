@@ -1,0 +1,20 @@
+{ "orderId": "order001", "eventType": "ORDER_PLACED", "timestamp": "2025-04-08T09:00:00Z", "service": "WaffleZoom", "customer": "Alice", "location": "North Zone" }
+{ "orderId": "order001", "eventType": "OUT_FOR_DELIVERY", "timestamp": "2025-04-08T09:10:00Z", "service": "WaffleZoom" }
+{ "orderId": "order001", "eventType": "DELIVERED", "timestamp": "2025-04-08T09:35:00Z", "service": "WaffleZoom" }
+{ "orderId": "order002", "eventType": "ORDER_PLACED", "timestamp": "2025-04-08T09:15:00Z", "service": "FastFlake", "customer": "Bob", "location": "South Zone" }
+{ "orderId": "order002", "eventType": "OUT_FOR_DELIVERY", "timestamp": "2025-04-08T09:40:00Z", "service": "FastFlake" }
+{ "orderId": "order002", "eventType": "DELIVERED", "timestamp": "2025-04-08T10:20:00Z", "service": "FastFlake" }
+{ "orderId": "order003", "eventType": "ORDER_PLACED", "timestamp": "2025-04-08T09:20:00Z", "service": "WaffleZoom", "customer": "Charlie", "location": "East Zone" }
+{ "orderId": "order003", "eventType": "OUT_FOR_DELIVERY", "timestamp": "2025-04-08T09:30:00Z", "service": "WaffleZoom" }
+{ "orderId": "order003", "eventType": "DELIVERED", "timestamp": "2025-04-08T09:50:00Z", "service": "WaffleZoom" }
+{ "orderId": "order004", "eventType": "ORDER_PLACED", "timestamp": "2025-04-08T09:30:00Z", "service": "FastFlake", "customer": "Diana", "location": "West Zone" }
+{ "orderId": "order004", "eventType": "OUT_FOR_DELIVERY", "timestamp": "2025-04-08T09:45:00Z", "service": "FastFlake" }
+{ "orderId": "order004", "eventType": "DELIVERED", "timestamp": "2025-04-08T10:50:00Z", "service": "FastFlake" }
+{ "orderId": "order005", "eventType": "ORDER_PLACED", "timestamp": "2025-04-08T09:45:00Z", "service": "WaffleZoom", "customer": "Eve", "location": "North Zone" }
+{ "orderId": "order005", "eventType": "OUT_FOR_DELIVERY", "timestamp": "2025-04-08T09:50:00Z", "service": "WaffleZoom" }
+{ "orderId": "order006", "eventType": "ORDER_PLACED", "timestamp": "2025-04-08T10:00:00Z", "service": "FastFlake", "customer": "Frank", "location": "South Zone" }
+{ "orderId": "order006", "eventType": "OUT_FOR_DELIVERY", "timestamp": "2025-04-08T10:10:00Z", "service": "FastFlake" }
+{ "orderId": "order006", "eventType": "DELIVERED", "timestamp": "2025-04-08T10:45:00Z", "service": "FastFlake" }
+{ "orderId": "order007", "eventType": "ORDER_PLACED", "timestamp": "2025-04-08T10:10:00Z", "service": "WaffleZoom", "customer": "Grace", "location": "Central Zone" }
+{ "orderId": "order007", "eventType": "OUT_FOR_DELIVERY", "timestamp": "2025-04-08T10:15:00Z", "service": "WaffleZoom" }
+{ "orderId": "order007", "eventType": "DELIVERED", "timestamp": "2025-04-08T10:28:00Z", "service": "WaffleZoom" }
