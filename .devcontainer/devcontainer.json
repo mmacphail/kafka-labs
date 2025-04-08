@@ -7,6 +7,9 @@
         "installMaven": "true",
         "installGradle": "true"
       },
+      "ghcr.io/devcontainers/features/go:1": {
+        "version": "1.24.2"
+      },
       "ghcr.io/devcontainers/features/docker-in-docker:1": {}
     },
     "hostRequirements": {
