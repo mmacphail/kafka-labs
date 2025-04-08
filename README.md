@@ -27,7 +27,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-This project is [MIT](LICENSE) licensed.
+This project is [CC BY-NC-SA 4.0](LICENSE) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
